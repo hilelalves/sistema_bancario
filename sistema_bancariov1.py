@@ -7,8 +7,6 @@ extrato = []
 
 while True:
 
-    # input("Seja bem vindo, aperte ENTER para continuar...")
-
     limite_valor = 500
     menu = colored("MENU", "magenta")   
     print(f"""       
